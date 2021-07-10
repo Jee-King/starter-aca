@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: "2"
+widget_id: 2asdasdad
 headless: true
 weight: 20
 title: Biography
