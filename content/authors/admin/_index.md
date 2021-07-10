@@ -8,6 +8,7 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Event-based Camera
+  - Neuromorphic Computing
 social:
   - icon: envelope
     icon_pack: fas
