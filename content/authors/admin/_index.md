@@ -29,15 +29,15 @@ organizations:
     url: https://www.dlut.edu.cn/
 education:
   courses:
-    - course: PhD student in Computer Application Technology
+    - course: PhD student in Computer Application Technology, 2019-present
       institution: Dalian University of Technology
       year: ""
-    - course: Master student in Computer Science and Technology
+    - course: Master student in Computer Science and Technology, 2017-2019
       institution: Dalian University of Technology
       year: ""
-    - course: Bachelor in Computer Science and Technology
+    - course: Bachelor in Computer Science and Technology, 2013-2017
       institution: Dalian Maritime University
-      year: 2017
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
