@@ -1,7 +1,7 @@
 ---
 title: Nelson Bighetti
 role: Professor of Artificial Intelligence
-avatar_filename: u-3975864335-2489672989-fm-26-gp-0.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -25,19 +25,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Dalian University of Technology
+    url: https://www.dlut.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD student in Computer Application Technology
+      institution: Dalian University of Technology
+      year: ""
+    - course: Master student in Computer Science and Technology
+      institution: Dalian University of Technology
+      year: ""
+    - course: Bachelor in Computer Science and Technology
+      institution: Dalian Maritime University
+      year: 2017
 email: ""
 superuser: true
 highlight_name: false
