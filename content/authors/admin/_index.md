@@ -15,10 +15,10 @@ social:
     link: jqz@mail.dlut.edu.cn
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=57iWrxUAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Jee-King
 organizations:
   - name: Dalian University of Technology
     url: https://www.dlut.edu.cn/
