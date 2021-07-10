@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Jiqing Zhang
+role: Dalian University of Technology
 avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
