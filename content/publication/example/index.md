@@ -9,9 +9,9 @@ abstract: >-
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
-  - admin
+  - Jiqing Zhang
   - Chengjiang Long
   - Yuxin Wang
   - Haiyin Piao
@@ -43,7 +43,6 @@ publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -52,4 +51,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including code, math, and images.
