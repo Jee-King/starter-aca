@@ -1,6 +1,6 @@
 ---
 title: Jiqing Zhang
-role: Dalian University of Technology
+role: Ph.D. student
 avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
