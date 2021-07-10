@@ -1,7 +1,7 @@
 ---
 title: Jiqing Zhang
 role: Ph.D. student
-avatar_filename: ""
+avatar_filename: 二寸.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
