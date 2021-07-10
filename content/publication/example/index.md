@@ -11,7 +11,8 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin，Chengjiang Long
+  - admin
+  - Chengjiang Long
   - Yuxin Wang
   - Haiyin Piao
   - Haiyang Mei
