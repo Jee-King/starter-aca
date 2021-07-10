@@ -2,7 +2,6 @@
 title: Multi-Context And Enhanced Reconstruction Network For Single Image Super
   Resolution
 publication_types:
-  - "0"
   - "1"
 authors:
   - Jiqing Zhang
