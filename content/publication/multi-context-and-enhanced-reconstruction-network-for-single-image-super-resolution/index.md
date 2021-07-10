@@ -31,8 +31,10 @@ draft: false
 featured: true
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: center
   preview_only: false
 date: 2020-07-06T10:57:10.535Z
 ---
-Supplementary can be download from [here](https://ieeexplore.ieee.org/document/9102868/media#media).
+* Supplementary can be download from [here](https://ieeexplore.ieee.org/document/9102868/media#media)
+
+  .
