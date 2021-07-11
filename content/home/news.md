@@ -10,7 +10,7 @@ content:
 design:
   columns: "2"
   background:
-    image: tiaowen.jpeg
+    image: 12.jpg
 ---
 1
 
