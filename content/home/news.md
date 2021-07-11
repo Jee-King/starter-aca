@@ -12,8 +12,4 @@ design:
   background:
     image: 13.jpg
 ---
-1
-
-2
-
-2
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cgnXxI9HEVeFWXB9OHp4vJCVBQJNiN6JcXvp43AQx44"></script>
