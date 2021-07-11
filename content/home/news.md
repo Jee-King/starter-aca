@@ -9,6 +9,8 @@ content:
   page_type: event
 design:
   columns: "2"
+  background:
+    image: cat.jpg
 ---
 1
 
