@@ -10,7 +10,7 @@ content:
 design:
   columns: "2"
   background:
-    image: cat.jpg
+    image: https://unsplash.com/photos/OwKpMltDTCg
 ---
 1
 
