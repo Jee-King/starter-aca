@@ -1,21 +1,73 @@
 ---
 widget: blank
+widget_id: news
 headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
+weight: 50
 title: News
-subtitle:
-weight: 50  # section position on page
-
+subtitle: null
 content:
   page_type: event
-
-
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: "2"
 ---
+1
 
-one paper ......... test
+2
 
-one paper ///////////// test
+2
+
+3
+
+4
+
+5
+
+4
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+7
+
+7
+
+7
+
+5
+
+57
+
+57
+
+
+
+5
+
+5
+
+7
+
+5
+
+75
+
+75
+
+75
+
+75
+
+757
+
+7
+
+5
