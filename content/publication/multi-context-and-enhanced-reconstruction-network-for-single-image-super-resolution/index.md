@@ -28,7 +28,7 @@ abstract: Most existing single image super-resolution (SISR) methods continually
   demonstrate the efficacy of our proposed MCERN in terms of metric accuracy and
   visual effects.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.jpg
   focal_point: center
