@@ -35,7 +35,7 @@ featured: true
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2019-01-24T13:03:54.848Z
 url_code: https://github.com/Mhaiyang/TMM2018_DRFN
 ---
