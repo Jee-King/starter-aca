@@ -39,3 +39,16 @@ image:
 date: 2019-01-24T13:03:54.848Z
 url_code: https://github.com/Mhaiyang/TMM2018_DRFN
 ---
+# visual results
+
+## x4 results
+
+![](x41.jpg)
+
+![](x42.jpg)
+
+## x8 results
+
+![](x81.jpg)
+
+![](x82.jpg)
