@@ -1,9 +1,9 @@
 ---
 widget: blank
-widget_id: news
+widget_id: visitors
 headless: true
 weight: 90
-title: News
+title: Visitor Map
 subtitle: null
 content:
   page_type: event
