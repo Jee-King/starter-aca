@@ -12,6 +12,8 @@ authors:
   - Baocai Yin
   - Qiang Zhang
   - Xiaopeng Wei
+publication: IEEE Transactions on Multimedia
+publication_short: "*TMM*"
 abstract: >-
   Recently, single-image super-resolution has made great progress due to the
   development of deep convolutional neural networks (CNNs). The vast majority of
