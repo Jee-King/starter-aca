@@ -31,7 +31,7 @@ abstract: >-
   methods in terms of accuracy and visual effects, especially for large-scale images, while using fewer parameters.
 draft: false
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425771&tag=1
-featured: true
+featured: false
 image:
   filename: featured.jpg
   focal_point: Smart
