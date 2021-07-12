@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: jqz@mail.dlut.edu.cn
+    link: mailto:jqz@mail.dlut.edu.cn
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=57iWrxUAAAAJ&hl=zh-CN
