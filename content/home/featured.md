@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: featured
 widget_id: Featured Publications
 headless: true
@@ -16,4 +16,4 @@ content:
   order: desc
 design:
   view: 3
----
+--- -->
