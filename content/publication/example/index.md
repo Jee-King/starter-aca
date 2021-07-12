@@ -28,7 +28,7 @@ url_source: ""
 url_video: ""
 title: A Two-Stage Attentive Network for Single Image Super-Resolution
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - sisr
