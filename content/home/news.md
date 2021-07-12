@@ -10,6 +10,6 @@ content:
 design:
   columns: "2"
   background:
-    image: 13.jpg
+    image: 12.jpg
 ---
 1
