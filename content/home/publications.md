@@ -3,7 +3,7 @@ widget: pages
 widget_id: publications
 headless: true
 weight: 60
-title: Recent Publications
+title: Publications
 subtitle: ""
 content:
   page_type: publication
@@ -18,7 +18,7 @@ content:
     exclude_featured: true
 design:
   view: 4
-  columns: "2"
+  columns: "1"
 ---
 
 {{% callout note %}}
