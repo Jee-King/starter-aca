@@ -39,7 +39,11 @@ image:
 date: 2019-01-24T13:03:54.848Z
 url_code: https://github.com/Mhaiyang/TMM2018_DRFN
 ---
-# visual results
+# Comparsion with SOTA methods
+
+![](t1.jpg)
+
+# Visual Results
 
 ## x4 results
 
