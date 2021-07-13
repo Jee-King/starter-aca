@@ -12,7 +12,7 @@ main:
     weight: 20
     
   - name: Publications
-    url: '#publications'
+    url: '#Publications'
     weight: 30
     
   - name: Projects
