@@ -2,7 +2,6 @@
 title: "DRFN: Deep Recurrent Fusion Network for Single Image Super-Resolution
   with Large Factors (TMM 2019)"
 publication_types:
-  - "0"
   - "2"
 authors:
   - Xin Yang
