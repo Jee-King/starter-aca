@@ -43,6 +43,20 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/Jee-King/TSAN
 ---
+### Comparison with SOTA Methods
+
+![](t1.png)
+
+### Visual Results
+
+![](f1.png)
+
+![](f2.png)
+
+![](f3.png)
+
+
+
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
