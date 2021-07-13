@@ -26,7 +26,7 @@ url_project: https://github.com/Jee-King/TSAN
 publication_short: In *TCSVT*
 url_source: ""
 url_video: ""
-title: A Two-Stage Attentive Network for Single Image Super-Resolution
+title: A Two-Stage Attentive Network for Single Image Super-Resolution (TCSVT 2021)
 doi: ""
 featured: false
 tags: []
