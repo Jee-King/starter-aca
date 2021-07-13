@@ -1,6 +1,6 @@
 ---
 title: Multi-Context And Enhanced Reconstruction Network For Single Image Super
-  Resolution
+  Resolution (ICME 2020)
 publication_types:
   - "1"
 authors:
