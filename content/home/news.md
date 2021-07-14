@@ -10,7 +10,7 @@ content:
 design:
   columns: "2"
   background:
-    image: light.jpg
+    image: wall.jpg
 ---
 <!--StartFragment-->
 
