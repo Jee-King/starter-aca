@@ -10,7 +10,7 @@ content:
 design:
   columns: "2"
   background:
-    image: 图片7.png
+    image: pink.jpg
 ---
 <!--StartFragment-->
 
