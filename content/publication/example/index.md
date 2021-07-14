@@ -21,8 +21,8 @@ authors:
 author_notes: []
 publication: IEEE Transactions on Circuits and Systems for Video Technology
 summary: ""
-url_dataset: #publication/example/
-url_project: #publication/example/
+url_dataset: https://zhangjiqing.com/publication/example/
+url_project: https://zhangjiqing.com/publication/example/
 publication_short: In *TCSVT*
 url_source: ""
 url_video: ""
