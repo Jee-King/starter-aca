@@ -10,7 +10,7 @@ content:
 design:
   columns: "2"
   background:
-    image: pink_sea.jpg
+    image: pink.jpg
 ---
 <!--StartFragment-->
 
