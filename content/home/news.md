@@ -10,7 +10,7 @@ content:
 design:
   columns: "2"
   background:
-    image: yello_gray.jpg
+    image: pink_sea.jpg
 ---
 <!--StartFragment-->
 
