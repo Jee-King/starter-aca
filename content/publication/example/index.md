@@ -23,7 +23,7 @@ publication: IEEE Transactions on Circuits and Systems for Video Technology
 summary: ""
 url_dataset:
 url_project:
-publication_short: In *TCSVT*
+publication_short: *TCSVT*
 url_source: ""
 url_video: ""
 title: A Two-Stage Attentive Network for Single Image Super-Resolution (TCSVT 2021)
