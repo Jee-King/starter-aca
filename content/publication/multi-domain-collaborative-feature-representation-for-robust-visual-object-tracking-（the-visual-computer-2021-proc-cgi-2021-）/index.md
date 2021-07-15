@@ -1,6 +1,6 @@
 ---
 title: Multi-domain Collaborative Feature Representation for Robust Visual
-  Object Tracking （The Visual Computer 2021 (Proc. CGI 2021)）
+  Object Tracking （The Visual Computer 2021 [Proc. CGI 2021]）
 publication_types:
   - "1"
   - "2"
