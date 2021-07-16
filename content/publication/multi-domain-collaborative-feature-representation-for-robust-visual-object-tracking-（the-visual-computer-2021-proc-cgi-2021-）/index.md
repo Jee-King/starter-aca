@@ -36,7 +36,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: cgi.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2021-07-15T07:10:38.794Z
