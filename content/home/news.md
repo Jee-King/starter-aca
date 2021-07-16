@@ -14,6 +14,12 @@ design:
 ---
 <!--StartFragment-->
 
+* **2021.06.30:** One paper was accepted by The Visual Computer (Proc. CGI)[](http://www.cgs-network.org/cgi21/)!
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 * **2021.03.25:** One paper was accepted by [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) !
 
 <!--EndFragment-->
