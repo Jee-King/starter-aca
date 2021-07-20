@@ -19,7 +19,7 @@ main:
     url: '#projects'
     weight: 40
 
-  - name: Contact
+  - name: [Contact](https://www.baidu.com/)
     url: mailto:jqz@mail.dlut.edu.cn
     weight: 50
 
