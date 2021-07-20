@@ -23,7 +23,7 @@ main:
     link: 'mailto:jqz@mail.dlut.edu.cn'
     weight: 50
 
-  - name: Contact
+  - name: baidu
     link: 'https://www.baidu.com/'
     weight: 60
 # Link to a PDF of your resume/CV from the menu.
