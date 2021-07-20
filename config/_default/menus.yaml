@@ -23,9 +23,6 @@ main:
     url: mailto:jqz@mail.dlut.edu.cn
     weight: 50
 
-  - name: <i class="fas fa-alien-monster"></i>
-    link: (https://www.baidu.com/)
-    weigth: 60
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
