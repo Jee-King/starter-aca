@@ -22,7 +22,7 @@ design:
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 	<title>Simple Lightbox - Responsive touch friendly Image lightbox</title>
-	<link href='../dist/simplelightbox.min.css' rel='stylesheet' type='text/css'>
+	<link href='dist/simplelightbox.min.css' rel='stylesheet' type='text/css'>
 	<link href='demo.css' rel='stylesheet' type='text/css'>
 </head>
 <body>
@@ -50,7 +50,7 @@ design:
 		</div>
 	</div>
 <script src="jquery-2.0.2.min.js"></script>
-<script type="text/javascript" src="../dist/simple-lightbox.js"></script>
+<script type="text/javascript" src="dist/simple-lightbox.js"></script>
 <script>
 	$(function(){
 		var $gallery = $('.gallery a').simpleLightbox();
