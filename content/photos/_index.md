@@ -38,7 +38,6 @@ design:
 			<a href="images/image7.jpg" class="big"><img src="images/thumbs/thumb7.jpg" alt="" title=""/></a>
 			<a href="images/image8.jpg"><img src="images/thumbs/thumb8.jpg" alt="" title=""/></a>
 			<div class="clear"></div>
-
 			<a href="images/image9.jpg" class="big"><img src="images/thumbs/thumb9.jpg" alt="" title=""/></a>
 			<a href="images/image10.jpg"><img src="images/thumbs/thumb10.jpg" alt="" title=""/></a>
 			<a href="images/image11.jpg"><img src="images/thumbs/thumb11.jpg" alt="" title=""/></a>
