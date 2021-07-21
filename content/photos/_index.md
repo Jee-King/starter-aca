@@ -33,6 +33,7 @@ design:
 			<a href="images/image2.jpg"><img src="images/thumbs/thumb2.jpg" alt="" title=""/></a>
 			<a href="images/image3.jpg"><img src="images/thumbs/thumb3.jpg" alt="" title="Beautiful Image"/></a>
 			<a href="images/image4.jpg"><img src="images/thumbs/thumb4.jpg" alt="" title=""/></a>
+      <div class="clear"></div>
 			<a href="images/image5.jpg"><img src="images/thumbs/thumb5.jpg" alt="" title=""/></a>
 			<a href="images/image6.jpg"><img src="images/thumbs/thumb6.jpg" alt="" title=""/></a>
 			<a href="images/image7.jpg" class="big"><img src="images/thumbs/thumb7.jpg" alt="" title=""/></a>
@@ -43,7 +44,6 @@ design:
 			<a href="images/image11.jpg"><img src="images/thumbs/thumb11.jpg" alt="" title=""/></a>
 			<a href="images/image12.jpg"><img src="images/thumbs/thumb12.jpg" alt="" title=""/></a>
 			<div class="clear"></div>
-
 		</div>
 	</div>
 <script src="jquery-2.0.2.min.js"></script>
