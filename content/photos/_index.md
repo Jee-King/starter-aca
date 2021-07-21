@@ -29,7 +29,7 @@ design:
 		<h1 class="align-center">Hi!</h1>
 		<div class="gallery">
 			<a href="images/image1.jpg" class="big"><img src="images/thumbs/thumb1.jpg" alt="" title="Beautiful Image" /></a>
-			<a href="images/image2.jpg"><img src="images/thumbs/thumb2.jpg" alt="" title=""/></a>
+			<a href="images/image13.jpg"><img src="images/thumbs/thumb13.png" alt="" title=""/></a>
 			<a href="images/image3.jpg"><img src="images/thumbs/thumb3.jpg" alt="" title="Beautiful Image"/></a>
 			<a href="images/image4.jpg"><img src="images/thumbs/thumb4.jpg" alt="" title=""/></a>
       <div class="clear"></div>
