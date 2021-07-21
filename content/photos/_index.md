@@ -26,7 +26,7 @@ design:
 </head>
 <body>
 	<div class="container">
-		<h1 class="align-center">Simple Lightbox Demo Page</h1>
+		<h1 class="align-center">Hi!</h1>
 		<div class="gallery">
 			<a href="images/image1.jpg" class="big"><img src="images/thumbs/thumb1.jpg" alt="" title="Beautiful Image" /></a>
 			<a href="images/image2.jpg"><img src="images/thumbs/thumb2.jpg" alt="" title=""/></a>
