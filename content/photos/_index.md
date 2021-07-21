@@ -46,12 +46,12 @@ design:
 			<div class="clear"></div>
 		</div>
 	</div>
+  
 <script src="jquery-2.0.2.min.js"></script>
 <script type="text/javascript" src="dist/simple-lightbox.js"></script>
 <script>
 	$(function(){
 		var $gallery = $('.gallery a').simpleLightbox();
-
 		$gallery.on('show.simplelightbox', function(){
 			console.log('Requested for showing');
 		})
