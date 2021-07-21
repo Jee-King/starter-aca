@@ -24,7 +24,7 @@ main:
     weight: 50
     
   - name: Photo
-    url: event/
+    url: photos/
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
