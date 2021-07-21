@@ -33,7 +33,7 @@ design:
 			<a href="images/image2.jpg"><img src="images/thumbs/thumb2.jpg" alt="" title=""/></a>
 			<a href="images/image3.jpg"><img src="images/thumbs/thumb3.jpg" alt="" title="Beautiful Image"/></a>
 			<a href="images/image4.jpg"><img src="images/thumbs/thumb4.jpg" alt="" title=""/></a>
-			<div class="clear"></div>
+	
 
 			<a href="images/image5.jpg"><img src="images/thumbs/thumb5.jpg" alt="" title=""/></a>
 			<a href="images/image6.jpg"><img src="images/thumbs/thumb6.jpg" alt="" title=""/></a>
