@@ -20,7 +20,7 @@ design:
 
 <!--StartFragment-->
 
-* **2021.06.30:** One paper was accepted by [The Visual Computer (Proc. CGI)](http://www.cgs-network.org/cgi21/)[](http://www.cgs-network.org/cgi21/) !
+* **2021.06.30:** One paper was accepted by [The Visual Computer (Proc. CGI 2021)](http://www.cgs-network.org/cgi21/)[](http://www.cgs-network.org/cgi21/) !
 
 <!--EndFragment-->
 
