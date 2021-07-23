@@ -14,6 +14,12 @@ design:
 ---
 <!--StartFragment-->
 
+* **2021.07.23:** One paper was accepted by [ICCV 2021](http://iccv2021.thecvf.com/home)!
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 * **2021.06.30:** One paper was accepted by [The Visual Computer (Proc. CGI)](http://www.cgs-network.org/cgi21/)[](http://www.cgs-network.org/cgi21/)!
 
 <!--EndFragment-->
