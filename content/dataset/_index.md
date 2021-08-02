@@ -31,7 +31,7 @@ FE108 is featured in
 ## **Download**
 
 ## **Preview of Sample Videos**
-
+{{<youtube EeMRO8XVv04>}}
 
 ## **Reference**
 Please consider citing FE108 if it is helpful for you :)
