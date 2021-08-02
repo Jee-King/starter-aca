@@ -26,3 +26,16 @@ FE108 is featured in
 **Diversity in target.** 21 classes, which can be divided into three categories: animal, vehicle, and daily goods (e.g., bottle, box).
 
 **Real world challenges.** Low light, high dynamic range, fast motion, motion blur and so on.
+
+
+## **Download**
+
+
+## **Reference**
+Please consider citing FE108 if it is helpful for you :)
+
+Object Tracking by Jointly Exploiting Frame and Event Domain 
+
+Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong
+
+IEEE International Conference on Computer Vision (ICCV), July, 2021
