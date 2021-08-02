@@ -21,14 +21,16 @@ system, which captures motion with a high sampling rate (up to 330Hz) and sub-mi
 Vicon’s sampling rate to 240Hz, which are also the annotation frequency of the captured APS frame and accumulated events (i.e., accumulated every 1=240 second), respectively.
 FE108 is featured in 
 
-**High-quality label**. The Vicon system can provide the 3D position and trajectory of targets in sub-millimeter precision.
+**> High-quality label**. The Vicon system can provide the 3D position and trajectory of targets in sub-millimeter precision.
 
-**Diversity in target.** 21 classes, which can be divided into three categories: animal, vehicle, and daily goods (e.g., bottle, box).
+**> Diversity in target.** 21 classes, which can be divided into three categories: animal, vehicle, and daily goods (e.g., bottle, box).
 
-**Real world challenges.** Low light, high dynamic range, fast motion, motion blur and so on.
+**> Real world challenges.** Low light, high dynamic range, fast motion, motion blur and so on.
 
 
 ## **Download**
+
+## **Preview of Sample Videos**
 
 
 ## **Reference**
