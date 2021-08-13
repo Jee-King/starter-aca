@@ -57,4 +57,4 @@ url_video: https://www.youtube.com/watch?v=NrsXMJYSDDQ&t=4s
 
   ### Results on EED
 
-![](result4.jpg)
+![](result3.jpg)
