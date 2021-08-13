@@ -43,6 +43,16 @@ date: 2021-06-30T07:10:38.794Z
 url_pdf: https://link.springer.com/article/10.1007/s00371-021-02237-9
 url_video: https://www.youtube.com/watch?v=NrsXMJYSDDQ&t=4s
 ---
-{{% callout note %}}
-paper, codes, and datasets are coming soon.
-{{% /callout %}}
+### RGB and Corresponding Stacked Event images
+
+![](rgb-event.jpg)
+
+### Results on OTB
+
+![](result1.png)
+
+![](result2.png)
+
+  ### Results on EED
+
+![](result4.png)
