@@ -49,10 +49,10 @@ url_video: https://www.youtube.com/watch?v=NrsXMJYSDDQ&t=4s
 
 ### Results on OTB
 
-![](result1.png)
+![](result1.jpg)
 
-![](result2.png)
+![](result2.jpg)
 
   ### Results on EED
 
-![](result4.png)
+![](result4.jpg)
