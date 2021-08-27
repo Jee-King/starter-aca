@@ -37,7 +37,7 @@ FE108 is featured in
 
 link?
 
-email?
+[email?]({{< ref "req_data.md" >}})
 
 
 ### **How to use FE108**
