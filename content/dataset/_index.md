@@ -42,9 +42,9 @@ email?
 -----------------------------------------------------------------------------------------
 <font size=3> | - - FE108 </font>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - train.list &nbsp;&nbsp; # train sequences
+<font size=3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - train.list &nbsp;&nbsp; # train sequences </font>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - test.list &nbsp;&nbsp; # test sequences
+<font size=3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - test.list &nbsp;&nbsp; # test sequences </font>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - pair.txt &nbsp;&nbsp; # record start frame in event.aedat4
 
