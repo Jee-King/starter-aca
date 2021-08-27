@@ -40,9 +40,9 @@ email?
 
 ### **How to use FE108**
 -----------------------------------------------------------------------------------------
-| -- FE108
+| - - FE108
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| -- train.list
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - train.list
 
 
 
