@@ -47,7 +47,7 @@ email?
 run stack_event.py to generate event frames, we aggregate the events captured between two adjacent frames into an 3-bin voxel grid to discretize the time dimension.
 
 ```python
-python stack.py 0 108
+python stack_event.py 0 108
 ```
 
 ### **Preview of Sample Videos**
