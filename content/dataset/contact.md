@@ -20,7 +20,7 @@ content:
   form:
     provider: netlify
     formspree:
-      id:
+      id:1406011307@qq.com
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
