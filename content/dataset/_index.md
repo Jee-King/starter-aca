@@ -54,9 +54,9 @@ python stack.py 0 108
 -----------------------------------------------------------------------------------------
 {{<youtube EeMRO8XVv04>}}
 
-### ** Expand Dataset**
+### **Expand Dataset**
 -----------------------------------------------------------------------------------------
-We are expanding our FE108 by collecting more challenging sequences (> 50), especially with more realistic scenes.  We expect to complete the collection and upload it here by the end of September.
+We are <font color=red> expanding our FE108 </font> by collecting more challenging sequences (> 50), especially with more realistic scenes.  We expect to complete the collection and upload it here by the end of September.
 
 ### **Reference**
 -----------------------------------------------------------------------------------------
