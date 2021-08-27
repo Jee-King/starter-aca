@@ -23,9 +23,9 @@ system, which captures motion with a high sampling rate (up to 330Hz) and sub-mi
 Vicon’s sampling rate to 240Hz, which are also the annotation frequency of the captured APS frame and accumulated events, respectively.
 FE108 is featured in 
 
-**> High-quality label**. The Vicon system can provide the 3D position and trajectory of targets in sub-millimeter precision.
+**> High-quality label**. The Vicon system can provide the 3D position in sub-millimeter precision.
 
-**> Diversity in target.** 21 classes, which can be divided into three categories: animal, vehicle, and daily goods (e.g., bottle, box).
+**> Diversity in target.** 21 classes (animal, vehicle, and daily goods).
 
 **> Real world challenges.** Low light, high dynamic range, fast motion, motion blur and so on.
 
@@ -42,6 +42,8 @@ email?
 -----------------------------------------------------------------------------------------
 ![dataset structure](ds.png)
 
+run stack_event.py to generate event frames, we aggregate the events captured between two adjacent frames into an 3-bin voxel grid to discretize the time dimension.
+
 ```python
 python stack.py 0 108
 ```
@@ -49,6 +51,10 @@ python stack.py 0 108
 ### **Preview of Sample Videos**
 -----------------------------------------------------------------------------------------
 {{<youtube EeMRO8XVv04>}}
+
+### ** Expand Dataset**
+-----------------------------------------------------------------------------------------
+We are expanding our FE108 by collecting more challenging sequences (> 50), especially with more realistic scenes.  We expect to complete the collection and upload it here by the end of September.
 
 ### **Reference**
 -----------------------------------------------------------------------------------------
