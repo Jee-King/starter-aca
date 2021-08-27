@@ -35,10 +35,7 @@ FE108 is featured in
 ### **Download**
 -----------------------------------------------------------------------------------------
 
-link?
-
-[email?]({{< ref "contact.md" >}})
-
+For non-commercial access applications, please send your name, email, and institution to xinyang@dlut.edu.cn or jqz@mail.dlur.edu.cn.
 
 ### **How to use FE108**
 -----------------------------------------------------------------------------------------
