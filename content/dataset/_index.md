@@ -40,7 +40,7 @@ email?
 
 ### **How to use FE108**
 -----------------------------------------------------------------------------------------
-| - - FE108
+<font size=3> | - - FE108 </font>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - train.list &nbsp;&nbsp; # train sequences
 
