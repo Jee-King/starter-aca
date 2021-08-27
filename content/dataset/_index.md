@@ -62,14 +62,12 @@ email?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - seq2
 
-<html>
-    <head>
-    </head>
-    <body style="font-size:20pt;">
-        <p> | -- FE108 </p>
-        <p style="margin-top: 10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | - - train.list </p> 
-    </body>
-</html>
+
+<body style="font-size:20pt;">
+    <p> | -- FE108 </p>
+    <p style="margin-top: 10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | - - train.list </p> 
+</body>
+
 
 ### **Preview of Sample Videos**
 -----------------------------------------------------------------------------------------
