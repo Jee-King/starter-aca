@@ -49,9 +49,7 @@ design:
     <button type="submit">Send</button>
   </p>
 </form>
-
 document.querySelector("form").addEventListener("submit", handleSubmit);
-
 const handleSubmit = (e) => {
   e.preventDefault()
   let myForm = document.getElementById('pizzaOrder');
