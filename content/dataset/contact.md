@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Application for Access for Non-Commercial Use
 subtitle:
 
 content:
@@ -26,7 +26,7 @@ content:
       captcha: false
   
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 <form name="contact" method="POST" data-netlify="true">
