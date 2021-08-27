@@ -40,27 +40,7 @@ email?
 
 ### **How to use FE108**
 -----------------------------------------------------------------------------------------
-<font size=3> | - - FE108 </font>
-
-<font size=3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - train.list &nbsp;&nbsp; # train sequences </font>
-
-<font size=3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - test.list &nbsp;&nbsp; # test sequences </font>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - pair.txt &nbsp;&nbsp; # record start frame in event.aedat4
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - read_img.py &nbsp;&nbsp; # read and save gray image from event.aedat4
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - stack_event.py  &nbsp;&nbsp; # stack events and save it
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - seq1
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - event.aedat4 &nbsp;&nbsp; # raw data from DAVIS346
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - groundtruth.txt &nbsp;&nbsp; # xywh
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - ...
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - - seq2
+![dataset structure](vicon.jpg)
 
 
 ### **Preview of Sample Videos**
