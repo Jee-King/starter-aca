@@ -27,6 +27,8 @@ FE108 is featured in
 
 **> Diversity in target.** 21 classes (animal, vehicle, and daily goods).
 
+**> Diversity of event rate.**  Avg event rate in (0, 3800] Ev/ms.
+
 **> Real world challenges.** Low light, high dynamic range, fast motion, motion blur and so on.
 
 
