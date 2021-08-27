@@ -40,7 +40,7 @@ email?
 
 ### **How to use FE108**
 -----------------------------------------------------------------------------------------
-![dataset structure](vicon.jpg)
+![dataset structure](ds.png)
 
 
 ### **Preview of Sample Videos**
