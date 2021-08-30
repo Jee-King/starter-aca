@@ -67,11 +67,11 @@ The dataset can be used freely if you agree with all the following terms.<br>
 <h3>Sending Request to us</h3>
 
 <form class="form" id="emailForm">
-	Name: <input id="first" name='name' type="text" style="width: 400px;" placeholder="Your name..." class="form__input" />
+	Name: <input id="first" name='name' type="text" style="width: 620px;" placeholder="Your name..." class="form__input" />
 	<br><br>
-	Institute: <input id="second" name='institute' type="text"  style="width: 500px;" placeholder="Your institute..." class="form__input" />
+	Institute: <input id="second" name='institute' type="text"  style="width: 620px;" placeholder="Your institute..." class="form__input" />
 	<br><br>
-	E-mail: <input id="third" name='email' type="text" style="width: 600px;" placeholder="Your E-mail address..." class="form__input" />
+	E-mail: <input id="third" name='email' type="text" style="width: 620px;" placeholder="Your E-mail address..." class="form__input" />
     <!--<textarea id="third" name='e-mail' type="text" placeholder="Your E-mail..." class="form__input"></textarea>-->
 </form>
 <br>
