@@ -92,7 +92,7 @@ The dataset can be used freely if you agree with all the following terms.<br>
       emailjs.init("user_sjjxu42gVFLvZtjK3yGIz");
    })();
 </script>
-<script type="text/javascript" src="./main.js"></script>
+<script type="text/javascript" src="https://github.com/Jee-King/starter-aca/tree/master/content/dataset/main.js"></script>
 
 </body>
 
