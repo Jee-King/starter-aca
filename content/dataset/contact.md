@@ -32,7 +32,7 @@ design:
 <!DOCTYPE html>
 <html>
 <head>
-
+<title> Application for Access for Non-Commercial Use </title>
 
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
