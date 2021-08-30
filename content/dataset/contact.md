@@ -114,19 +114,6 @@ The dataset can be used freely if you agree with all the following terms.<br>
 <button id="btnSubmit">Send Request</button>
 <br><br><br><br>
 
-<!--<br><br><br><br>-->
-<!--<h2><p><font size="6" color="black"><b>Report</b></font></p></h2>-->
-<!--<hr/>-->
-<!--<table align="center">-->
-<!--<tr>-->
-	<!--<td align="center"><embed src="report.mp4" width="800" height="450"></td>-->
-<!--</tr>-->
-<!--</table>-->
-
-<br><br>
-<h2>Website visit statistics</h2>
-<hr/>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=EsUkw_m2bHmFxftVUNklQ6CouRkNwbDnlRJFNuQiqBU&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
