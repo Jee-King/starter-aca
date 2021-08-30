@@ -86,9 +86,8 @@ The dataset can be used freely if you agree with all the following terms.<br>
  - We reserve all rights that are not explicitly granted to you. The dataset is provided as is, and you take full responsibility for any risk of using it. There may be inaccuracies although we tried, and will try our best to rectify any inaccuracy once found.
 
 </font>
-<br>
 
-<h3>Sending Request to Prof. Xin Yang (xinyang@dlut.edu.cn):</h3>
+<h3>Sending Request to us</h3>
 
 <form class="form" id="emailForm">
 	Name:<br>
