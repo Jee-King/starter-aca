@@ -116,7 +116,7 @@ The dataset can be used freely if you agree with all the following terms.<br>
       emailjs.init("user_sjjxu42gVFLvZtjK3yGIz");
    })();
 </script>
-<script type="text/javascript" src="./main.js"></script>
+<script type="text/javascript" src="main.js"></script>
 <h2>Website visit statistics</h2>
 <hr/>
 <script type="text/javascript" align="center" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cgnXxI9HEVeFWXB9OHp4vJCVBQJNiN6JcXvp43AQx44&w=200"></script>
