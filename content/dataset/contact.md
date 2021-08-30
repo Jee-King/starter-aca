@@ -57,17 +57,9 @@ body {
 }
 </style>
 
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?1ec4ad5c61857459aa78d5ee7ddee28d";
-  var s = document.getElementsByTagName("script")[0];
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
 </head>
 
 <body>
@@ -81,11 +73,11 @@ var _hmt = _hmt || [];
 <font size="3">
 	To request access to the dataset for non-commercial use, please review the terms and conditions. If you agree with them, please fill the form below and then click the "<font color="black">Send Request</font>" button to achieve a request. Please fill in your official university/company email address. Thank you!
 
-	<br>
-	<br>
+<br>
+<br>
 
-	<b>Terms and Conditions</b>
-	<br>
+<b>Terms and Conditions</b>
+<br>
 
 The dataset can be used freely if you agree with all the following terms.<br>
 
