@@ -30,19 +30,9 @@ body {
   font-size: 14px;
   background: #fdfdfd;
 }
-</style>
-
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?1ec4ad5c61857459aa78d5ee7ddee28d";
-  var s = document.getElementsByTagName("script")[0];
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+</style>  
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
 </head>
 
 <body>
@@ -91,11 +81,11 @@ var _hmt = _hmt || [];
 <font size="4">
 	To request access to the dataset for non-commercial use, please review the terms and conditions. If you agree with them, please fill the form below and then click the "<font color="black">Send Request</font>" button to achieve a request. Please fill in your official university/company email address. Thank you!
 
-	<br>
-	<br>
+<br>
+<br>
 
-	<b>Terms and Conditions</b>
-	<br>
+<b>Terms and Conditions</b>
+<br>
 
 The dataset can be used freely if you agree with all the following terms.<br>
 
@@ -120,12 +110,6 @@ The dataset can be used freely if you agree with all the following terms.<br>
 <br>
 <button id="btnSubmit">Send Request</button>
 <br><br><br><br>
-
-<h2>Website visit statistics</h2>
-<hr/>
-<script type="text/javascript" align="center" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cgnXxI9HEVeFWXB9OHp4vJCVBQJNiN6JcXvp43AQx44&w=200"></script>
-
-
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
 <script type="text/javascript">
    (function(){
@@ -133,7 +117,9 @@ The dataset can be used freely if you agree with all the following terms.<br>
    })();
 </script>
 <script type="text/javascript" src="./main.js"></script>
-
+<h2>Website visit statistics</h2>
+<hr/>
+<script type="text/javascript" align="center" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cgnXxI9HEVeFWXB9OHp4vJCVBQJNiN6JcXvp43AQx44&w=200"></script>
 </body>
 
 </html>
