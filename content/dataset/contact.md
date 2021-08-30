@@ -64,7 +64,6 @@ body {
 
 <body>
 
-<h2><p><font size="6" color="black"><b>Dataset</b></font></p></h2>
 <hr/>
 
 <font size="4"> Both <font size="4" color="red">training set</font> and <font size="4" color="red">testing set</font> can be obtained via form request! </font>
