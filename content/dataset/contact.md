@@ -29,7 +29,6 @@ design:
   columns: '1'
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
   
