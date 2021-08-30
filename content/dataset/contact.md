@@ -32,30 +32,6 @@ design:
 <!DOCTYPE html>
 <html>
 <head>
-<style media="screen" type="text/css">
-body
-{
-  border: 0pt none;
-  font-family: inherit;
-  font-size: 100%;
-  font-style: inherit;
-  font-weight: inherit;
-  margin: 0pt;
-  outline-color: invert;
-  outline-style: none;
-  outline-width: 0pt;
-  padding: 0pt;
-  vertical-align: baseline;
-}
-body {
-  position: relative;
-  margin: 3em auto 2em auto;
-  width: 1080px;
-  font-family: Times New Roman, Lato, Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-  background: #fdfdfd;
-}
-</style>
 
 
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
