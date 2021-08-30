@@ -35,7 +35,7 @@ FE108 is featured in
 ### **Download**
 -----------------------------------------------------------------------------------------
 
-[Application for Access for Non-Commercial Use](contect)
+[Application for Access for Non-Commercial Use](contact)
 
 
 ### **How to use FE108**
