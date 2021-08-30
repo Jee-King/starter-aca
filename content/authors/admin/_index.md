@@ -2,8 +2,7 @@
 title: Jiqing Zhang
 role: Ph.D. student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computer Vision
