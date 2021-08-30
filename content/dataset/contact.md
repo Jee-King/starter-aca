@@ -33,6 +33,15 @@ design:
 <html>
 <head>
 <title> Application for Access for Non-Commercial Use </title>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1ec4ad5c61857459aa78d5ee7ddee28d";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
 </head>
@@ -65,19 +74,11 @@ The dataset can be used freely if you agree with all the following terms.<br>
 <h3>Sending Request to us</h3>
 
 <form class="form" id="emailForm">
-  Name:<br>
-    <input id="first" name='name' type="text" placeholder="Your name..." class="form__input" />
-	<br><br>
-	Institute:<br>
-    <input id="second" name='institute' type="text" placeholder="Your institute..." class="form__input" />
-	<br><br>
-	E-mail:<br>
-	<input id="third" name='email' type="text" placeholder="Your E-mail address..." class="form__input" />
-<!-- 	Name: <input id="first" name='name' type="text" style="width: 620px; height: 25px;" placeholder="Your name..." class="form__input" />
+	Name: <input id="first" name='name' type="text" style="width: 620px; height: 25px;" placeholder="Your name..." class="form__input" />
 	<br><br>
 	Institute: <input id="second" name='institute' type="text"  style="width: 600px; height: 25px;" placeholder="Your institute..." class="form__input" />
 	<br><br>
-	E-mail: <input id="third" name='email' type="text" style="width: 620px; height: 25px;" placeholder="Your E-mail address..." class="form__input" /> -->
+	E-mail: <input id="third" name='email' type="text" style="width: 620px; height: 25px;" placeholder="Your E-mail address..." class="form__input" />
 </form>
 <br>
 <button id="btnSubmit">Send Request</button>
