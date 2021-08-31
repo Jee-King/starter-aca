@@ -4,7 +4,7 @@ title: "DRFN: Deep Recurrent Fusion Network for Single Image Super-Resolution
 publication_types:
   - "2"
 authors:
-  - [Xin Yang](https://xinyangdut.github.io/)
+  - Xin Yang
   - Haiyang Mei
   - Jiqing Zhang
   - Ke Xu
