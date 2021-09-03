@@ -42,7 +42,7 @@ FE108 is featured in
 -----------------------------------------------------------------------------------------
 ![dataset structure](ds.png)
 
-run stack_event.py to generate event frames, we aggregate the events captured between two adjacent frames into an 3-bin voxel grid to discretize the time dimension. You can download .txt and .py from [here](https://1drv.ms/u/s!AoopRFuuZ7xogRqKjGJnpoOplB-h?e=CAvrLv).
+run stack_event.py to generate event frames, we aggregate the events captured between two adjacent frames into an 3-bin voxel grid to discretize the time dimension. You can download _.txt_ and _.py_ from [here](https://1drv.ms/u/s!AoopRFuuZ7xogRqKjGJnpoOplB-h?e=CAvrLv).
 
 ```python
 python stack_event.py 0 108
