@@ -39,6 +39,6 @@ highlight_name: false
 ---
 
 
-I am currently a second-year Ph.D. student in the [School of Computer Science and Technology](http://cs.dlut.edu.cn/), [Dalian University of Technology](https://www.dlut.edu.cn/), supervised by Prof Baocai Yin and [Prof Xin Yang](https://xinyangdut.github.io/), and also received academic guidance from [Bo Dong](https://dongshuhao.github.io/). Before that, I received the B.Eng. degree from the School of Information Science and Technology, [Dalian Maritime University](http://www.dlmu.edu.cn/), in 2017.
+I am currently a Ph.D. student in the [School of Computer Science and Technology](http://cs.dlut.edu.cn/), [Dalian University of Technology](https://www.dlut.edu.cn/), supervised by Prof Baocai Yin and [Prof Xin Yang](https://xinyangdut.github.io/), and also received academic guidance from [Bo Dong](https://dongshuhao.github.io/). Before that, I received the B.Eng. degree from the School of Information Science and Technology, [Dalian Maritime University](http://www.dlmu.edu.cn/), in 2017.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
