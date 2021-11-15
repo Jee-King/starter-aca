@@ -54,7 +54,9 @@ python stack_event.py 0 108
 
 ### **Expand Dataset**
 -----------------------------------------------------------------------------------------
-We are <font color=red> expanding our FE108 </font> by collecting more challenging sequences (> 50), especially with more realistic scenes.  We expect to complete the collection and upload it here by the end of September.
+We are <font color=red> expanding our FE108 </font> by collecting more challenging sequences (> 50), especially with more realistic scenes.  ~~We expect to complete the collection and upload it here by the end of September.~~  
+
+<font color=red> News! </font> we have collected 33 sequences, which contains more challenging scenes for event-based data, such as similar object, severe camera motion, strobe light. We also open our 240hz annotation, named FE240hz.
 
 ### **Reference**
 -----------------------------------------------------------------------------------------
