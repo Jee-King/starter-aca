@@ -1,5 +1,5 @@
 ---
-title: Object Tracking by Jointly Exploiting Frame and Event Domain （ICCV 2021）
+title: Spiking Transformers for Event-based Single Object Tracking （CVPR 2022）
 publication_types:
   - "1"
 authors:
@@ -9,7 +9,7 @@ authors:
   - Xiaopeng Wei
   - Baocai Yin
   - Bo Dong
-publication: IEEE International Conference on Computer Vision
+publication: IEEE Conference on Computer Vision and Pattern Recognition
 publication_short: "*ICCV*"
 abstract: Inspired by the complementarity between conventional frame-based and
   bio-inspired event-based cameras, we propose a multi-modal based approach to
