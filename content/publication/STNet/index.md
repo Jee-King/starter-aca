@@ -4,11 +4,12 @@ publication_types:
   - "1"
 authors:
   - Jiqing Zhang
-  - Xin Yang
-  - Yingkai Fu
-  - Xiaopeng Wei
-  - Baocai Yin
   - Bo Dong
+  - Haiwei Zhang
+  - Jianchuan Ding
+  - Felix Heide
+  - Baocai Yin
+  - Xin Yang
 publication: IEEE Conference on Computer Vision and Pattern Recognition
 publication_short: "*ICCV*"
 abstract: Inspired by the complementarity between conventional frame-based and
@@ -35,7 +36,7 @@ image:
   filename: feature.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-07-23T03:25:13.935Z
+date: 2022-03-07T03:25:13.935Z
 url_pdf: 
 url_supp:
 url_dataset:  
