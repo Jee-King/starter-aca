@@ -11,7 +11,7 @@ authors:
   - Baocai Yin
   - Xin Yang
 publication: IEEE Conference on Computer Vision and Pattern Recognition
-publication_short: "*ICCV*"
+publication_short: "*CVPR*"
 abstract: Inspired by the complementarity between conventional frame-based and
   bio-inspired event-based cameras, we propose a multi-modal based approach to
   fuse visual cues from the frame- and event-domain to enhance the single object
