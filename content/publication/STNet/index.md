@@ -4,12 +4,7 @@ publication_types:
   - "1"
 authors:
   - Jiqing Zhang
-  - Bo Dong
-  - Haiwei Zhang
-  - Jianchuan Ding
-  - Felix Heide
-  - Baocai Yin
-  - Xin Yang
+
 publication: IEEE Conference on Computer Vision and Pattern Recognition
 publication_short: "*CVPR*"
 abstract: Inspired by the complementarity between conventional frame-based and
