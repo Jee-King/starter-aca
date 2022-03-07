@@ -10,8 +10,17 @@ authors:
   - Baocai Yin
   - Bo Dong
 publication: IEEE International Conference on Computer Vision
-publication_short: "*CVPR*"
-abstract: Event-based cameras bring a unique capability to tracking, being able to function in challenging real-world conditions as a direct result of their high temporal resolution and high dynamic range. These imagers capture events asynchronously that encode rich temporal and spatial information. However, effectively extracting this information from events remains an open challenge. In this work, we propose a spiking transformer network, STNet, for single object tracking. STNet dynamically extracts and fuses information from both temporal and spatial domains. In particular, the proposed architecture features a transformer module to provide global spatial information and a spiking neural network (SNN) module for extracting temporal cues. The spiking threshold of the SNN module is dynamically adjusted based on the statistical cues of the spatial information, which we find essential in providing robust SNN features. We fuse both feature branches dynamically with a novel cross-domain attention fusion algorithm. Extensive experiments on two event-based datasets, FE240hz and EED, validate that the proposed STNet outperforms existing state-of-the-art methods in both tracking accuracy and speed with a significant margin.
+publication_short: "*ICCV*"
+abstract: Inspired by the complementarity between conventional frame-based and bio-inspired event-based cameras, we propose
+a multi-modal based approach to fuse visual cues from the frame- and event-domain to enhance the single object
+tracking performance, especially in degraded conditions (e.g., scenes with high dynamic range, low light, and fastmotion
+objects). The proposed approach can effectively and adaptively combine meaningful information from both domains.
+Our approach’s effectiveness is enforced by a novel designed cross-domain attention schemes, which can effectively
+enhance features based on self- and cross-domain attention schemes; The adaptiveness is guarded by a specially
+designed weighting scheme, which can adaptively balance the contribution of the two domains. To exploit event-based
+visual cues in single-object tracking, we construct a largescale frame-event-based dataset, which we subsequently employ to train a novel frame-event fusion based model. Extensive experiments show that the proposed approach outperforms state-of-the-art frame-based tracking methods by
+at least 10.4% and 11.9% in terms of representative success rate and precision rate, respectively. Besides, the effectiveness
+of each key component of our approach is evidenced by our thorough ablation study.
 draft: false
 featured: false
 image:
