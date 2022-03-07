@@ -1,5 +1,5 @@
 ---
-title: Spiking Transformers for Event-based Single Object Tracking （CVPR 2022）
+title: Spiking Transformers for Event-based Single Object Tracking (CVPR 2022)
 publication_types:
   - "1"
 authors:
