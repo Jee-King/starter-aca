@@ -14,6 +14,12 @@ design:
 ---
 <!--StartFragment-->
 
+* **2022.03.02:** One paper was accepted by [CVPR 2022](https://cvpr2022.thecvf.com/) !
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 * **2021.07.23:** One paper was accepted by [ICCV 2021](http://iccv2021.thecvf.com/home) !
 
 <!--EndFragment-->
