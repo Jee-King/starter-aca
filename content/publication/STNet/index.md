@@ -37,7 +37,7 @@ featured: false
 date: 2022-03-02T01:41:08.235Z
 url_supp: null
 image:
-  filename: feature.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 url_code: https://github.com/Jee-King/CVPR2022_STNet
