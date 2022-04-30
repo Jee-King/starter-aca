@@ -1,7 +1,7 @@
 ---
 title: Jiqing Zhang
 role: Ph.D. student
-avatar_filename: avatar.jpg
+avatar_filename: wechat-image_20220430165130.jpg
 bio: ""
 interests:
   - Artificial Intelligence
