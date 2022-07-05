@@ -29,13 +29,13 @@ abstract: Event-based cameras bring a unique capability to tracking, being able
   outperforms existing state-of-the-art methods in both tracking accuracy and
   speed with a significant margin.
 draft: false
-url_pdf: null
+url_pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf
 url_dataset: null
-url_video: null
+url_video: https://youtu.be/iRkgBy0V1Dk
 title: Spiking Transformers for Event-based Single Object Tracking （CVPR 2022）
 featured: false
 date: 2022-03-02T01:41:08.235Z
-url_supp: null
+url_supp: https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhang_Spiking_Transformers_for_CVPR_2022_supplemental.pdf
 image:
   filename: featured.jpg
   focal_point: Smart
