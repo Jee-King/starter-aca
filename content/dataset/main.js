@@ -2,7 +2,8 @@ $('#btnSubmit').click(function(e){
     var templateParams = {
         name: $('#first').val(),
         institute: $('#second').val(),
-        email: $('#third').val()
+        email: $('#third').val(),
+        infor: $('#forth').val()
     };
     emailjs.send('service_2c9wpet', 'FE108', templateParams)
     .then(function(response) {
