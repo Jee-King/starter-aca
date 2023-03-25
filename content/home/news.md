@@ -14,7 +14,7 @@ design:
 ---
 <!--StartFragment-->
 
-* **2023.02.28:** One paper was accepted by [CVPR 23](https://cvpr2023.thecvf.com/) !
+* **2023.02.28:** One paper was accepted by [CVPR 2023](https://cvpr2023.thecvf.com/) !
 
 <!--EndFragment-->
 
