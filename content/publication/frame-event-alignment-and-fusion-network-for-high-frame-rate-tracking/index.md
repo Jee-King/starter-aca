@@ -11,6 +11,8 @@ authors:
   - Jinpeng Bai
   - Baocai Yin
   - Xin Yang
+publication: IEEE Conference on Computer Vision and Pattern Recognition
+publication_short: "*CVPR*"
 draft: false
 featured: false
 image:
