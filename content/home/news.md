@@ -14,6 +14,12 @@ design:
 ---
 <!--StartFragment-->
 
+* **2023.03.24:** One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 * **2023.02.28:** One paper was accepted by [CVPR 2023](https://cvpr2023.thecvf.com/) !
 
 <!--EndFragment-->
