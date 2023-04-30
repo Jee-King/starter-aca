@@ -27,8 +27,8 @@ education:
     - course: PhD student in Computer Application Technology, 2019-present
       institution: Dalian University of Technology
       year: ""
-    - course: Master student in Computer Science and Technology, 2017-2019
-      institution: Dalian University of Technology
+    - course: Exchange Student in HLT Lab, 2021-2022
+      institution: National University of Singapore
       year: ""
     - course: Bachelor in Computer Science and Technology, 2013-2017
       institution: Dalian Maritime University
