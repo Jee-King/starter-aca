@@ -1,5 +1,6 @@
 ---
 title: Frame-Event Alignment and Fusion Network for High Frame Rate Tracking
+  (CVPR 2023)
 publication_types:
   - "1"
 authors:
