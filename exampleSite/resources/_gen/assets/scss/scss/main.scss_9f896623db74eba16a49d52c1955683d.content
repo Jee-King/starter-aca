@@ -8357,7 +8357,7 @@ summary:focus {
  *  Documentation layout
  **************************************************/
 .docs-article-container {
-  max-width: 760px; }
+  max-width: 1460px; }
 
 /* Documentation: article footer. */
 .docs .body-footer {
