@@ -3,8 +3,8 @@ title: "In the Blink of an Eye: Event-based Emotion Recognition (SIGGRAPH 2023)"
 publication_types:
   - "1"
 authors:
-  - Haiwei Zhang*
-  - Jiqing Zhang+
+  - Haiwei Zhang
+  - Jiqing Zhang
   - Bo Dong
   - Pieter peers
   - Wenwei Wu
