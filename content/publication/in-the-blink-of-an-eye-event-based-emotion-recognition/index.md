@@ -12,8 +12,8 @@ authors:
   - Felix Heide
   - Xin Yang
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Equal Contribution
+  - Equal Contribution
 publication: SIGGRAPH 2023
 draft: false
 featured: false
