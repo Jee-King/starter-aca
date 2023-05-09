@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Haiwei Zhang*
-  - Jiqing Zhang*
+  - Jiqing Zhang+
   - Bo Dong
   - Pieter peers
   - Wenwei Wu
