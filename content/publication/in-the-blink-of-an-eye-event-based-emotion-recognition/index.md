@@ -13,6 +13,7 @@ authors:
   - Xin Yang
 author_notes:
   - Equal contribution
+  - Equal contribution
 publication: SIGGRAPH 2023
 draft: false
 featured: false
