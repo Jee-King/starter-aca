@@ -11,6 +11,8 @@ authors:
   - Xiaopeng Wei
   - Felix Heide
   - Xin Yang
+author_notes:
+  - Equal contribution
 publication: SIGGRAPH 2023
 draft: false
 featured: false
