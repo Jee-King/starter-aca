@@ -1,5 +1,5 @@
 ---
-title: "In the Blink of an Eye: Event-based Emotion Recognition"
+title: "In the Blink of an Eye: Event-based Emotion Recognition (SIGGRAPH 2023)"
 publication_types:
   - "1"
 authors:
@@ -11,6 +11,7 @@ authors:
   - Xiaopeng Wei
   - Felix Heide
   - Xin Yang
+publication: SIGGRAPH 2023
 draft: false
 featured: false
 image:
