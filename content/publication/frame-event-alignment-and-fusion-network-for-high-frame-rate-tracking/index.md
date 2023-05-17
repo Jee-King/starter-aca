@@ -24,6 +24,11 @@ abstract: >-
   frame-rate alignment between frame and event modalities under the guidance of the moving cues furnished by events. While the fusion module is accountable for emphasizing valuable features and suppressing noise information by the mutual complement between the two modalities. Extensive experiments show that the proposed approach outperforms state-of-the-art trackers by a significant margin in high frame rate tracking. With the FE240hz dataset, our approach achieves high frame rate tracking up to 240Hz.
 draft: false
 featured: false
+url_pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf
+url_dataset: null
+url_video: https://youtu.be/iRkgBy0V1Dk
+url_supp: https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhang_Spiking_Transformers_for_CVPR_2022_supplemental.pdf
+url_code: https://github.com/Jee-King/CVPR2022_STNet
 image:
   filename: featured.jpg
   focal_point: Smart
