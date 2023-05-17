@@ -13,12 +13,6 @@ authors:
   - Xin Yang
 publication: IEEE Conference on Computer Vision and Pattern Recognition
 publication_short: "*CVPR*"
----
-
-### **Overview of the proposed STNet**
-### **Results on different test dataset**
-
----
 abstract: >-
   Most existing RGB-based trackers target low frame rate benchmarks of around 30
   frames per second. This setting
