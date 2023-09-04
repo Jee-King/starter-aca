@@ -24,7 +24,7 @@ organizations:
     url: https://www.dlut.edu.cn/
 education:
   courses:
-    - course: PhD Student in Computer Application Technology, 2019-present
+    - course: PhD Student in Computer Application Technology, 2019-2023
       institution: Dalian University of Technology
       year: ""
     - course: Exchange Student in HLT Lab, 2021-2022
