@@ -27,8 +27,9 @@ abstract: >-
   the spiking neural network’s ability to decode pertinent temporal information. Second, SEEN learns to extract essential spatial cues from corresponding intensity frames and leverages a novel weight-copy scheme to convey spatial attention to the convolutional spiking layers during training and inference. We extensively validate and demonstrate the effectiveness of our approach on a specially collected Single-eye Event-based Emotion (SEE) dataset. To the best of our knowledge, our method is the first eye-based emotion recognition method that leverages event-based cameras and spiking neural networks.
 draft: false
 featured: false
-url_pdf:  
-url_dataset: 
+url_pdf:  https://dl.acm.org/doi/abs/10.1145/3588432.3591511
+url_code:  https://github.com/zhanghaiwei1234/Single-eye-Emotion-Recognition
+url_dataset: http://www.dluticcd.com/
 url_video:  
 url_supp: https://github.com/zhanghaiwei1234/Single-eye-Emotion-Recognition
 image:
