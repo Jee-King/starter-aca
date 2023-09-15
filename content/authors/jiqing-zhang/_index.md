@@ -38,7 +38,9 @@ superuser: true
 highlight_name: false
 ---
 
+I received the Ph.D. degree from [Dalian University of Technology](https://www.dlut.edu.cn/), Dalian, China, in 2023. In my Ph.D. career, I was supervised by Professor Baocai Yin and [Xin Yang](https://xinyangdut.github.io/). From 2021 and 2022, I was a visiting student at [HLT Lab](https://cde.nus.edu.sg/ece/hlt/), National University of Singapore, Singapore, and supervised by Professor [Haizhou Li]. Currently, I work at the Information Science and Technology College of [Dalian Maritime University](http://www.dlmu.edu.cn/), Dalian, China, as the 'Xinghai' Associate Professor.
 
-I am currently a Ph.D. student in the [School of Computer Science and Technology](http://cs.dlut.edu.cn/), [Dalian University of Technology](https://www.dlut.edu.cn/), supervised by Prof Baocai Yin and [Prof Xin Yang](https://xinyangdut.github.io/), and also received academic guidance from [Bo Dong](https://dongshuhao.github.io/). Before that, I received the B.Eng. degree from the School of Information Science and Technology, [Dalian Maritime University](http://www.dlmu.edu.cn/), in 2017.
+My primary research interests include computer vision and deep learning, mainly focusing on event-based vision and neuromorphic computing.  I am a reviewer for IEEE TIP, TCSVT, CVPR, ICCV, AAAI, etc.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
