@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Testing Project
+summary: testing project page.
 tags:
 - Others
 date: "2016-04-27T00:00:00Z"
