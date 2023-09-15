@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:jqz@mail.dlut.edu.cn
+    link: mailto:jqz@dlmu.edu.cn
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=57iWrxUAAAAJ&hl=zh-CN
@@ -19,9 +19,9 @@ social:
     icon_pack: fab
     link: https://github.com/Jee-King
 organizations:
-  - name: "E-mail: jqz@mail.dlut.edu.cn"
-  - name: Dalian University of Technology
-    url: https://www.dlut.edu.cn/
+  - name: "E-mail: jqz@dlmu.edu.cn"
+  - name: Dalian Maritime University
+    url: https://www.dlmu.edu.cn/
 education:
   courses:
     - course: PhD student in Computer Application Technology, 2019-present
