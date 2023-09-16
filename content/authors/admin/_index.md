@@ -20,7 +20,7 @@ social:
     link: https://github.com/Jee-King
 organizations:
   - name: "E-mail: jqz@dlmu.edu.cn"
-  - name: Dalian Maritime University 大连海事大学
+  - name: Dalian Maritime University       大连海事大学
     url:  https://www.dlmu.edu.cn/
 education:
   courses:
