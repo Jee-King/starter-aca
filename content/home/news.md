@@ -13,7 +13,7 @@ design:
     image: pink.jpg
 ---
 <iframe srcdoc="<div style='height: 1200px; overflow-y: scroll; font-size:16px;'>
-2023.03: One paper conditionally accepted by SIGGRAPH 2023!
+2023.03: One paper conditionally accepted by  <b><span style='color:blue;'>SIGGRAPH 2023!</span></b>  <br>
 2023.03: One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
   2023.03: One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
 2023.03: One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
