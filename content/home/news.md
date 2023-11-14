@@ -13,10 +13,11 @@ design:
     image: pink.jpg
 ---
 <iframe srcdoc="<div style='height: 1200px; overflow-y: scroll;'>
-* **2023.03:** One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
-* **2023.03:** One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
-* **2023.03:** One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
-* **2023.03:** One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
-* **2023.03:** One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
+2023.03: One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
+2023.03: One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
+  2023.03: One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
+2023.03: One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
+  2023.03: One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
+2023.03: One paper conditionally accepted by [SIGGRAPH 2023](https://s2023.siggraph.org/) !
 </div>" style="width:100%; height:300px;"></iframe>
 
