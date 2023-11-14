@@ -12,7 +12,7 @@ design:
   background:
     image: pink.jpg
 ---
-<iframe srcdoc="<div style='height: 400px; font-size:20px; line-height:1.7;'>
+<iframe srcdoc="<div style='height: 400px; font-size:20px; line-height:2.3;'>
 <b>2023.11:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>IJCV 2023!</span> <br>
 <b>2023.10:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>TIP 2023!</span> Congrats Yingkai.  <br>
 <b>2023.03:</b> One paper conditionally accepted by  <span style='color:rgb(51, 89, 175);'>SIGGRAPH 2023!</span>  <br>
