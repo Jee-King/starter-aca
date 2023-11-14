@@ -20,7 +20,7 @@ design:
 
 <!--StartFragment-->
 
-* **2023.10:** One paper accepted by [TIP 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) !
+* **2023.10:** One paper accepted by [TIP 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) ! Congrats YingKai.
 
 <!--EndFragment-->
 
