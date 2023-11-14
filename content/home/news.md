@@ -22,4 +22,4 @@ design:
 <b>2021.06:</b> One paper accepted by  <b>The Visual Computer (Proc. CGI 2021)</b> <br>
 <b>2021.03:</b> One paper accepted by  <b>TCSVT 2021!</b> <br>
 <b>2020.03:</b> One paper accepted by  <b>ICME 2020!</b> <br>
-</div>" style="width:100%; height:400px;" scrolling="no"></iframe>
+</div>" style="width:100%; height:400px;"></iframe>
