@@ -13,7 +13,7 @@ design:
     image: pink.jpg
 ---
 <iframe srcdoc="<div style='height: 400px; font-size:20px; line-height:1.7;'>
-<b>2023.11:</b> One paper accepted by  <b>IJCV 2023!</b> <br>
+<b>2023.11:</b> One paper accepted by  <span style='color:rgb(56, 100, 193);'>IJCV 2023!</span> <br>
 <b>2023.10:</b> One paper accepted by  <b>TIP 2023!</b> Congrats Yingkai.  <br>
 <b>2023.03:</b> One paper conditionally accepted by  <b>SIGGRAPH 2023!</b>  <br>
 <b>2023.02:</b> One paper accepted by  <b>CVPR 2023!</b> <br>
