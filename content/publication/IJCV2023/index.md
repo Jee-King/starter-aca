@@ -12,7 +12,7 @@ authors:
   - Xin Yang
 publication: IJCV 2023
 abstract: >-
-Most existing trackers based on RGB/grayscale frames may collapse due to the unreliability of conventional sensors in some challenging  scenarios (e.g., motion blur and high dynamic range). Event-based cameras as bioinspired sensors  encode brightness changes with high temporal resolution and high dynamic range, thereby providing considerable potential for tracking under degraded conditions.  Nevertheless, events lack the fine-grained texture cues provided by RGB/grayscale frames.  
+Most existing trackers based on RGB/grayscale frames may collapse due to the unreliability of conventional sensors in some challenging  scenarios 
 draft: false
 featured: false
 url_pdf:  https://link.springer.com/article/10.1007/s11263-023-01959-8
