@@ -1,6 +1,6 @@
 ---
 title: Jiqing Zhang
-role: Ph.D. student
+role: 
 avatar_filename: avatar.jpg
 bio: ""
 interests:
