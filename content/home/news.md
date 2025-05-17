@@ -13,9 +13,9 @@ design:
     image: pink.jpg
 ---
 <iframe srcdoc="<div style='height: 400px; font-size:20px; line-height:2.2;'>
-<b>2024.12:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>AAAI 2025! </span>  <br>
-<b>2024.12:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>AAAI 2025! </span>  <br>
-<b>2024.12:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>AAAI 2025! </span>  <br>
+<b>2025.05:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>IEEE TCSVT! </span>  <br>
+<b>2025.02:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>CVPR 2025! </span>  <br>
+<b>2025.01:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>IEEE TIP! </span>  <br>
 <b>2024.12:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>AAAI 2025! </span>  <br>
 <b>2024.12:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>IEEE TEVC! </span>  <br>
 <b>2024.11:</b> Two papers accepted by  <span style='color:rgb(51, 89, 175);'>IEEE TCSVT!</span> <br>
