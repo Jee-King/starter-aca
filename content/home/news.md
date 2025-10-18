@@ -13,6 +13,8 @@ design:
     image: pink.jpg
 ---
 <iframe srcdoc="<div style='height: 400px; font-size:20px; line-height:2.2;'>
+<b>2025.10:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>IJCV! </span>  <br>
+<b>2025.10:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>IEEE TCSVT! Congrats Guangyao.</span>  <br>
 <b>2025.07:</b> Three papers accepted by  <span style='color:rgb(51, 89, 175);'>ACM MM 2025! </span>  <br>
 <b>2025.05:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>IEEE TCSVT! </span>  <br>
 <b>2025.02:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>CVPR 2025! </span>  <br>
