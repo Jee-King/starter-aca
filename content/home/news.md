@@ -13,6 +13,8 @@ design:
     image: pink.jpg
 ---
 <iframe srcdoc="<div style='height: 400px; font-size:20px; line-height:2.2;'>
+<b>2026.02:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>CVPR 2026!</span>  <br>
+<b>2026.02:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>IEEE TCSVT!</span>  <br>
 <b>2025.11:</b> Three papers accepted by  <span style='color:rgb(51, 89, 175);'>AAAI 2026! </span>  <br>
 <b>2025.11:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>IJHCI! (CCF B) </span>  <br>
 <b>2025.10:</b> One paper accepted by  <span style='color:rgb(51, 89, 175);'>IJCV! </span>  <br>
